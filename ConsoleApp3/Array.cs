@@ -7,3 +7,5 @@ public class Array
         System.Console.WriteLine("테스트입니다.");
     }
 }
+
+// git test
